@@ -1,0 +1,30 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "description": "RSS Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbearu/virtual-keyboard.git"
+  },
+  "keywords": [
+    "RSS",
+    "Task",
+    "DOM",
+    "JS"
+  ],
+  "author": "Egor Gladilin <work@devbear.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbearu/virtual-keyboard/issues"
+  },
+  "homepage": "https://github.com/devbearu/virtual-keyboard#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
